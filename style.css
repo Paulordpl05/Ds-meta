@@ -16,7 +16,7 @@ body, html {
 
 header{
 
-    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+    background: linear-gradient(180deg, #0f254e 0%, #181818 100%);
     height: 220px;
     display: flex;
     align-items: center;
@@ -67,7 +67,7 @@ header{
     background-color: #1B2531;
     border: 1px solid #384459;
     width: 100%;
-    height: 46px;
+    height: 45px;
     border-radius: 5px;
     color: #9AAABE;
     padding:0 20px;
